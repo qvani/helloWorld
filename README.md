@@ -1,2 +1,2 @@
-# helloWorld
-git命令的练习
+# 目的
+  git命令的练习
